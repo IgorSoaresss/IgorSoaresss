@@ -9,7 +9,7 @@
 
 <div align='center'>
 📫 How to reach me:
-  [![LindIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-soares-2567a7302/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-soares-2567a7302/)
 </div>
 
 ### Top Languages and Tools:
@@ -22,4 +22,5 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 - ⚡ Fun fact: I'm allergic to bananas! Can you believe it?
+
 Thats all about me for now.
