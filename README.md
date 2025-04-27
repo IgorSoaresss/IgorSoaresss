@@ -1,4 +1,4 @@
-# Hi, I'm Igor! But you can call me Igor!
+# Hi, I'm Igor! But you can call me Igor.
 
 - 😄 I'm 20 years old!
 - I'm currently a student of 💻 _Information Systems_ at [Cesar School](https://www.cesar.school/).
