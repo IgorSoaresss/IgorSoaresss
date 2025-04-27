@@ -9,7 +9,9 @@
 
 <div align='center'>
 📫 How to reach me:
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-soares-2567a7302/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-soares-2567a7302/)
+
 </div>
 
 ### Top Languages and Tools:
