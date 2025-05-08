@@ -34,4 +34,4 @@
 
 - ⚡ Fun fact: I'm allergic to bananas! Can you believe it?
 
-Thats all about me for now.
+That's all about me for now.
