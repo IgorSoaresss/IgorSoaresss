@@ -33,6 +33,7 @@
 ![GitHub Desktop](https://img.shields.io/badge/GitHub%20Desktop-0088cc?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white)
+![MARS](https://img.shields.io/badge/MARS-%23000000.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 - ⚡ Fun fact: I'm allergic to bananas! Can you believe it?
 
